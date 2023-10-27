@@ -1,9 +1,7 @@
 # Drinking Game
 
-### Tema 0
-
-- [ ] The Best Drinking Game (poate fi schimbat ulterior)
-- [ ] Scurtă descriere a temei alese, ce v-ați propus să implementați
+ The Best Drinking Game that you don't remember
+Am decis sa fac un joc de baut 
 
 ## Tema 1
 
