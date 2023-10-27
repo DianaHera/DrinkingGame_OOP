@@ -1,7 +1,11 @@
 # Drinking Game
 
- The Best Drinking Game that you don't remember
-Am decis sa fac un joc de baut 
+ The Best Drinking Game that you don't remember.
+
+ Am decis sa fac un joc de baut, perfect pentru cand te vezi cu prietenii si nu stiti ce sa faceti.
+ 
+ ## Cum se joaca?
+ Trebuie introduse numele jucatorilor, iar apoi jocul incepe. Vor fi generate aleatoriu diferite provocari/intrebari si numele jucatorului care trebuie sa le faca. Daca refuza o provocare acestia sunt obligati sa bea. Nu exista castigatori. Scopul jocului e sa aduca amuzament intre prieteni cand se stranga sa bea ceva.
 
 ## Tema 1
 
